@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,MAAO,CACC,UAAU,CAAE,OAAO,CCD3B,IAAK,CACD,UAAU,CAAE,OAAO,CCDvB,MAAO,CACH,UAAU,CAAE,OAAO,CCGvB,SAAW,CACP,KAAK,CAAE,IAAI,CACX,UAAU,CAAE,GAAG",
+"sources": ["scss/_header.scss","scss/_main.scss","scss/_footer.scss","scss/style.scss"],
+"names": [],
+"file": "style.css"
+}

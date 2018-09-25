@@ -1,0 +1,10 @@
+@import 'utilities';
+@import 'header';
+@import 'main';
+@import 'footer';
+
+html, body {
+    width: 100%;
+    @include noMP;
+    color: #f3f0f0;
+}
